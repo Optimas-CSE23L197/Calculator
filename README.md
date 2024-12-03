@@ -1,5 +1,3 @@
-Here is the updated README.md content with the additional documentation included:
-
 ```markdown
 # Calculator Application
 
@@ -59,5 +57,3 @@ A simple GUI-based calculator application built using Java and Swing.
 - Implement keyboard input support.
 - Improve UI aesthetics.
 ```
-
-Next, I will commit and push these changes to the repository.
